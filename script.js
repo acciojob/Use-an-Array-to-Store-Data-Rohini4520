@@ -1,3 +1,3 @@
-let YourArray = ['one', 2, 'three', true, false, undefined, nul];
+let YourArray = ['one', 2, 'three', true, false, undefined, null];
 
 console.log(YourArray.length);
